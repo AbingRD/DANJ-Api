@@ -1,13 +1,13 @@
 const express = require('express');
 const cors = require('cors');
 
-console.log('app.js is loading');
+const authRoutes = require('./routes/authRoutes');
 
 const app = express();
 
 app.use(cors());
 app.use(express.json());
 
-console.log(typeof app);
+app.use('/api/auth', authRoutes);
 
 module.exports = app;
