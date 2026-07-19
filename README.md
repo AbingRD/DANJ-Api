@@ -1,4 +1,7 @@
 # API CONNECTED SUPABASE 
-# CREATED FOLDER and structurecd properly pushing to main
+## MERGING TO MAIN
 # branch for API and already login with the manager next task is the web log in site testing 
-# Using postman only
+# API WORKING ATM 
+# PRODUCTS API WORKING AND DELETEION
+# TESTING IN LOCALHOST
+# LOGIN ROUTES AND PARAMETERS SHOULD BE MONITORED
